@@ -1,2 +1,8 @@
-# data-science-bootcamp-10
+# Data Science Bootcamp 10
 My data science and analytics projects
+
+## My personal projects
+
+1.SQL
+2.R programing
+3.Looker dashboard
